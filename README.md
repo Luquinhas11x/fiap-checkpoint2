@@ -49,7 +49,7 @@ mvn package
 * Criar nova imagem Docker
 
 ```
-docker build -t fiap-checkpoint2
+docker build -t fiap-checkpoint2 .
 ```
 
 * Executar container
