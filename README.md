@@ -167,6 +167,6 @@ pacientes pc ON c.paciente_id = pc.id;
 ## Referencias
 
 - [GitHub com as intruções](https://github.com/acnaweb/microservices-2024/blob/main/checkpoints/checkpoint-2-sem1.pdf)
-- [Docker Hub com o repositório](https://hub.docker.com/r/ludushark/fiap-checkpoint1/tags)
+- [Docker Hub com o repositório](https://hub.docker.com/r/ludushark/fiap-checkpoint2/tags)
 
 
