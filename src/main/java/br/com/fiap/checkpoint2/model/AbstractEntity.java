@@ -8,7 +8,7 @@ import jakarta.persistence.MappedSuperclass;
 import java.io.Serializable;
 
 @MappedSuperclass
-public class AbstractEntity<ID> implements Serializable {
+public abstract class AbstractEntity<ID> implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private ID id;
